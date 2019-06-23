@@ -1,4 +1,15 @@
 .header {
     text-align: center;
+    background-image:url(/Assets/images/eight_horns.png);
+    border-bottom: 8px solid black;
+    font-family: 'Courier New', Courier, monospace;
+    height: 300px;
 }
 
+.main {
+    text-align: center;
+    position: relative;
+    border:0px;
+    width:100%;
+    padding: 50px;
+}
